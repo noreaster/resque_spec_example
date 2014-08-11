@@ -46,7 +46,6 @@ Original Post:
 
 
 Since the original post I've changed .env to
-.env
 ``` ruby
 require 'rubygems'
 require 'spork'
